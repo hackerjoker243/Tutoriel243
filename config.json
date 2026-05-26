@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "d2cb8181-233c-4d18-9972-8a1b04db0044",
+            "id": "d2cb8181-233c-4d18-9972-8a1b04db6542",
             "level": 0
           }
         ],
@@ -14,7 +14,7 @@
       },
       "streamSettings": {
         "wsSettings": {
-          "path": "/personalizado"
+          "path": "/Valerien@243"
         }
       }
     }
